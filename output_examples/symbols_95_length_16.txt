@@ -1,0 +1,23 @@
+A random ASCII password of length 16 generated from 95 symbols
+  Has Entropy:                       105.12
+  Requires diceware words:           8.13
+  Average diceware word length:      6.99
+  Estimated length of passphrase:    56.86
+
+Example diceware passphrase with:
+  words:     9
+  length:    62
+  entropy:   116.32
+
+  crawling
+  task
+  coaster
+  shortage
+  femur
+  subsidy
+  backboard
+  dubbed
+  charting
+
+  crawlingtaskcoastershortagefemursubsidybackboarddubbedcharting
+

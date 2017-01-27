@@ -1,0 +1,16 @@
+A random ASCII password of length 4 generated from 10 symbols
+  Has Entropy:                       13.29
+  Requires diceware words:           1.03
+  Average diceware word length:      6.99
+  Estimated length of passphrase:    7.19
+
+Example diceware passphrase with:
+  words:     2
+  length:    18
+  entropy:   25.85
+
+  womankind
+  attendant
+
+  womankindattendant
+

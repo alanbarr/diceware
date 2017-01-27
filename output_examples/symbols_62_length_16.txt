@@ -1,0 +1,22 @@
+A random ASCII password of length 16 generated from 62 symbols
+  Has Entropy:                       95.27
+  Requires diceware words:           7.37
+  Average diceware word length:      6.99
+  Estimated length of passphrase:    51.54
+
+Example diceware passphrase with:
+  words:     8
+  length:    58
+  entropy:   103.40
+
+  same
+  hedging
+  distinct
+  ungraded
+  caring
+  landmark
+  marigold
+  dispersed
+
+  samehedgingdistinctungradedcaringlandmarkmarigolddispersed
+

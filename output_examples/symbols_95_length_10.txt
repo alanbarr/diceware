@@ -1,0 +1,20 @@
+A random ASCII password of length 10 generated from 95 symbols
+  Has Entropy:                       65.70
+  Requires diceware words:           5.08
+  Average diceware word length:      6.99
+  Estimated length of passphrase:    35.54
+
+Example diceware passphrase with:
+  words:     6
+  length:    34
+  entropy:   77.55
+
+  pastel
+  cradle
+  erratic
+  even
+  skid
+  dawdler
+
+  pastelcradleerraticevenskiddawdler
+

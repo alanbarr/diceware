@@ -1,0 +1,19 @@
+A random ASCII password of length 10 generated from 62 symbols
+  Has Entropy:                       59.54
+  Requires diceware words:           4.61
+  Average diceware word length:      6.99
+  Estimated length of passphrase:    32.21
+
+Example diceware passphrase with:
+  words:     5
+  length:    33
+  entropy:   64.62
+
+  crudely
+  plaster
+  rule
+  economic
+  unaware
+
+  crudelyplasterruleeconomicunaware
+
